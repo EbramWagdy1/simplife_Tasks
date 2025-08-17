@@ -1,4 +1,4 @@
 void main(){
-  int x=20;
+  int x=5;
   print(x);
 }
